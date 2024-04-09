@@ -1,4 +1,4 @@
-Power-BI-Project-AtliQ-Hospitality-Analysis:
+AtliQ-Hospitality-Analysis:
 
 Presentation:[https://docs.google.com/presentation/d/1BeADlZ7RExDBOVMGIXF8eac_8fNVu622/edit?usp=sharing&ouid=105956400977869015608&rtpof=true&sd=true].
 
@@ -18,8 +18,9 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 7] Elite type rooms has the most booking and as well higher cancellation rate.
 
-8]The revenue per booking is higher in Mumbai. The revenue per booking is higher in Presidential class Both the business and the luxury categories generate almost the same revenue per booking.
+8] The revenue per booking is higher in Mumbai. The revenue per booking is higher in Presidential class Both the business and the luxury categories generate almost the same revenue per booking.
 
+Dashboard on Tableau: [https://public.tableau.com/app/profile/pooja.mude5524/viz/AtliqHospitality_1/Dashboard?publish=yes].
 
 
 
